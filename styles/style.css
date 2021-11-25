@@ -54,6 +54,7 @@ h1{
 }
 
 .section2-desc{
+  text-align: center;
   font-size: 60px;
   display: inline-block;
   position: relative;
@@ -61,5 +62,20 @@ h1{
   bottom: 30vh;
 }
 
+.section3-img{
+  margin-top: 15vh;
+  width: 50vw;
+  position: absolute;
+  right: 0px;
+}
+
+.section3-desc{
+  text-align: center;
+  font-size: 60px;
+  display: inline-block;
+  position: relative;
+  left: 10vw;
+  top: 40vh;
+}
 
 

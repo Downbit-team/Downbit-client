@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+
+h1{
+  font-size: 70px;
+  text-align: center;
+  margin-top: 150px;
+}
+
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, -100%, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translateZ(0);
+  }
+}
+
+.logo{
+  display: block;
+  width: 30vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  animation: fadeInDown 1.5s;
+}
+
+
+

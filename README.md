@@ -14,7 +14,10 @@
 
 - HTML5
 - CSS3
+- JavaScript
+- jQuery
 - git-flow
+- netlify (release)
 
 ### Android
 

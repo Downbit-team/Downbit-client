@@ -32,9 +32,9 @@ section{
 }
 
 h1{
-  font-size: 70px;
+  font-size: 50px;
   text-align: center;
-  padding-top: 150px;
+  padding-top: 5vh;
   animation: fadeInDown 1s;
 }
 
@@ -43,8 +43,7 @@ h1{
   width: 30vw;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 50px;
-  margin-bottom: 100px;
+  margin-top: 3vh;
   animation: fadeInDown 1.5s;
 }
 
@@ -55,11 +54,11 @@ h1{
 
 .section2-desc{
   text-align: center;
-  font-size: 60px;
+  font-size: 40px;
   display: inline-block;
   position: relative;
-  left: 5vw;
-  bottom: 30vh;
+  left: 10vw;
+  bottom: 40vh;
 }
 
 .section3-img{
@@ -71,7 +70,7 @@ h1{
 
 .section3-desc{
   text-align: center;
-  font-size: 60px;
+  font-size:40px;
   display: inline-block;
   position: relative;
   left: 10vw;

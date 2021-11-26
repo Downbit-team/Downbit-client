@@ -55,9 +55,9 @@ h1{
   position: relative;
 }
 
-.start-page{
-  margin-top: 15vh;
+.img{
   width: 50vw;
+  margin-top: 15vh;
 }
 
 .section2-desc{
@@ -66,8 +66,6 @@ h1{
 }
 
 .section3-img{
-  margin-top: 15vh;
-  width: 50vw;
   position: absolute;
   right: 0px;
 }
@@ -77,6 +75,10 @@ h1{
   top: 40vh;
 }
 
+.section4-desc{
+  left: 5vw;
+  bottom: 30vh;
+}
 
 @media (max-width : 1300px){
   .desc{

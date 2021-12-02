@@ -103,6 +103,22 @@ h1{
   animation: leftToright 1s;
 }
 
+.download-img{
+  position: absolute;
+  right: 5vw;
+  width: 40vw;
+  margin-top: 10vh;
+}
+
+.section5-desc{
+  left: 10vw;
+  top: 40vh;
+}
+
+.section5:hover > .download-img{
+  animation: fadeInDown 1.5s;
+  cursor: pointer;
+}
 
 @media (max-width : 1300px){
   .desc{
@@ -118,6 +134,7 @@ h1{
     top: 5vw;
     width: 50vw;
     margin: 0 auto;
+    right: 0;
   }
   .section2:hover > .section2-img{
   animation: fadeInDown 1s;
